@@ -1,0 +1,5 @@
+add_test( LisTest.Assertion1_3_8 /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build/hello_test [==[--gtest_filter=LisTest.Assertion1_3_8]==] --gtest_also_run_disabled_tests)
+set_tests_properties( LisTest.Assertion1_3_8 PROPERTIES WORKING_DIRECTORY /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build)
+add_test( LisTest.Assertions /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build/hello_test [==[--gtest_filter=LisTest.Assertions]==] --gtest_also_run_disabled_tests)
+set_tests_properties( LisTest.Assertions PROPERTIES WORKING_DIRECTORY /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build)
+set( hello_test_TESTS LisTest.Assertion1_3_8 LisTest.Assertions)

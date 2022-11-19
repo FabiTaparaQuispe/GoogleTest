@@ -1,0 +1,178 @@
+Start testing: Nov 03 16:36 -05
+----------------------------------------------------------
+1/6 Testing: StackTest.Axioma6
+1/6 Test: StackTest.Axioma6
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/hello_test" "--gtest_filter=StackTest.Axioma6" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build
+"StackTest.Axioma6" start time: Nov 03 16:36 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Axioma6
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Axioma6
+[       OK ] StackTest.Axioma6 (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Axioma6" end time: Nov 03 16:36 -05
+"StackTest.Axioma6" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: StackTest.Axioma5
+2/6 Test: StackTest.Axioma5
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/hello_test" "--gtest_filter=StackTest.Axioma5" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build
+"StackTest.Axioma5" start time: Nov 03 16:36 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Axioma5
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Axioma5
+[       OK ] StackTest.Axioma5 (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Axioma5" end time: Nov 03 16:36 -05
+"StackTest.Axioma5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: StackTest.Axioma4
+3/6 Test: StackTest.Axioma4
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/hello_test" "--gtest_filter=StackTest.Axioma4" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build
+"StackTest.Axioma4" start time: Nov 03 16:36 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Axioma4
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Axioma4
+[       OK ] StackTest.Axioma4 (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Axioma4" end time: Nov 03 16:36 -05
+"StackTest.Axioma4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: StackTest.Axioma3
+4/6 Test: StackTest.Axioma3
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/hello_test" "--gtest_filter=StackTest.Axioma3" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build
+"StackTest.Axioma3" start time: Nov 03 16:36 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Axioma3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Axioma3
+hello_test: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/arrayStack.cc:63: T arrayStack<T>::top() [with T = int]: Assertion `!empty()' failed.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Failed.
+"StackTest.Axioma3" end time: Nov 03 16:36 -05
+"StackTest.Axioma3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: StackTest.Top
+5/6 Test: StackTest.Top
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/hello_test" "--gtest_filter=StackTest.Top" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build
+"StackTest.Top" start time: Nov 03 16:36 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Top
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Top
+/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/hello_test.cc:57: Failure
+Expected equality of these values:
+  6
+  newstack->top()
+    Which is: 1
+/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/hello_test.cc:60: Failure
+Expected equality of these values:
+  3
+  newstack->top()
+    Which is: 1
+/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/hello_test.cc:62: Failure
+Value of: newstack->empty()
+  Actual: false
+Expected: true
+[  FAILED  ] StackTest.Top (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] StackTest.Top
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"StackTest.Top" end time: Nov 03 16:36 -05
+"StackTest.Top" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: StackTest.Axioma1
+6/6 Test: StackTest.Axioma1
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/hello_test" "--gtest_filter=StackTest.Axioma1" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build
+"StackTest.Axioma1" start time: Nov 03 16:36 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/1.to_tarea/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = StackTest.Axioma1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from StackTest
+[ RUN      ] StackTest.Axioma1
+[       OK ] StackTest.Axioma1 (0 ms)
+[----------] 1 test from StackTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"StackTest.Axioma1" end time: Nov 03 16:36 -05
+"StackTest.Axioma1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 03 16:36 -05

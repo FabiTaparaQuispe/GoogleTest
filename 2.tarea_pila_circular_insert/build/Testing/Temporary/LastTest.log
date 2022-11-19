@@ -1,0 +1,69 @@
+Start testing: Nov 03 15:51 -05
+----------------------------------------------------------
+1/2 Testing: LisTest.Assertion1_3_8
+1/2 Test: LisTest.Assertion1_3_8
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build/hello_test" "--gtest_filter=LisTest.Assertion1_3_8" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build
+"LisTest.Assertion1_3_8" start time: Nov 03 15:51 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LisTest.Assertion1_3_8
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LisTest
+[ RUN      ] LisTest.Assertion1_3_8
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Failed.
+"LisTest.Assertion1_3_8" end time: Nov 03 15:51 -05
+"LisTest.Assertion1_3_8" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: LisTest.Assertions
+2/2 Test: LisTest.Assertions
+Command: "/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build/hello_test" "--gtest_filter=LisTest.Assertions" "--gtest_also_run_disabled_tests"
+Directory: /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build
+"LisTest.Assertions" start time: Nov 03 15:51 -05
+Output:
+----------------------------------------------------------
+Running main() from /home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LisTest.Assertions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LisTest
+[ RUN      ] LisTest.Assertions
+/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/hello_test.cc:37: Failure
+Value of: a->size()>0
+  Actual: false
+Expected: true
+/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/hello_test.cc:38: Failure
+Expected equality of these values:
+  tam
+    Which is: 11
+  a->size()
+    Which is: 0
+/home/fabiola/Desktop/VI/1.TO/II/TO-ASSERTS-PruebasGoogle/2.tarea_pila_circular_insert/hello_test.cc:39: Failure
+Value of: a->isEmpty()
+  Actual: true
+Expected: false
+[  FAILED  ] LisTest.Assertions (0 ms)
+[----------] 1 test from LisTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] LisTest.Assertions
+
+ 1 FAILED TEST
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"LisTest.Assertions" end time: Nov 03 15:51 -05
+"LisTest.Assertions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 03 15:51 -05
